@@ -96,7 +96,6 @@ The Excel dashboard includes:
 ---
 
 ## 📷 Dashboard Preview
-(Add a screenshot of your dashboard here)
 
 ---
 
