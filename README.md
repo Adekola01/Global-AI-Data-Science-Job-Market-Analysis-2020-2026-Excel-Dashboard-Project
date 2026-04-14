@@ -97,7 +97,8 @@ The Excel dashboard includes:
 
 ## 📷 Dashboard Preview
 
----
+<img width="679" height="233" alt="Screenshot 2026-04-14 132534" src="https://github.com/user-attachments/assets/5b369fc5-861f-4d56-bbbb-020d0423921e" />
+
 
 ## 👤 Author
 **Kolapo Oluwatosin Adeosun**  
