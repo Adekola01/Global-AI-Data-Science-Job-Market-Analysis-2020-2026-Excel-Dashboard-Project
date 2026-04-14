@@ -1,4 +1,4 @@
-# 📊 Global AI & Data Science Job Market Analysis (2020–2026)
+# Global AI & Data Science Job Market Analysis (2020–2026)
 
 ## Project Overview
 This project analyzes the global AI and Data Science job market using Excel. It explores job demand trends, salary patterns, required skills, and the impact of education, experience, and work mode on employment opportunities.
