@@ -1,13 +1,13 @@
 # 📊 Global AI & Data Science Job Market Analysis (2020–2026)
 
-## 🧠 Project Overview
+## Project Overview
 This project analyzes the global AI and Data Science job market using Excel. It explores job demand trends, salary patterns, required skills, and the impact of education, experience, and work mode on employment opportunities.
 
 The goal is to provide actionable insights for job seekers, educators, and organizations.
 
 ---
 
-## 📁 Dataset
+## Dataset
 The dataset used is the **AI & Data Science Job Market Dataset (2020–2026)**.
 
 It contains:
@@ -24,7 +24,7 @@ Each row represents a job posting.
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 This project aims to answer key questions such as:
 - Which AI roles are most in demand?
 - What skills are required for these roles?
@@ -34,7 +34,7 @@ This project aims to answer key questions such as:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 The Excel dashboard includes:
 
 ### 🔹 KPIs
@@ -59,7 +59,7 @@ The Excel dashboard includes:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - AI job demand is steadily increasing over time.
 - Technology industry leads hiring, followed by finance and e-commerce.
 - High salaries reflect strong demand for AI professionals.
@@ -69,7 +69,7 @@ The Excel dashboard includes:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 ### For Job Seekers:
 - Learn Python, SQL, and Machine Learning.
 - Gain experience through projects and internships.
@@ -81,7 +81,7 @@ The Excel dashboard includes:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel
   - Pivot Tables
   - Charts
@@ -90,7 +90,7 @@ The Excel dashboard includes:
 
 ---
 
-## 📌 Project Files
+## Project Files
 - Excel Dashboard File
 - Dataset (CSV/Excel)
 ---
